@@ -1,1 +1,27 @@
-# Engine
+# JuneCore Engine Versions
+
+- JuneCore-0.0-NewHorizon::::KleinersLab-SourceBETA
+- GoldStrata-0.1-Atra::::Portal_02-AlphaWormholeGun
+- GoldStrata-0.2-Avid
+- GoldStrata-0.3-Bivlo
+- GoldStrata-0.4-Blink
+- GoldStrata-0.5-Castra
+- GoldStrata-0.6-Cami::::Portal_02-Ricochet
+- GoldStrata-0.7-Deimos
+- GoldStrata-0.8-Denvo
+- GoldStrata-0.9-Electris::::Portal_02-TrustFling&PortalWormholeV2
+- Strata-1.0-Athena::::REC_BONEWORKS-CentralStationDemo
+- Strata-1.1-Artemis::::REC_BONEWORKS-Streets:Unreleased&NexUI:1.0
+- Strata-1.2-Apollo::::REC_BONEWORKS-Museum:Unreleased
+- Strata-1.3-Astro::::REC_BONEWORKS-RedactedChamber:V1
+- Strata-1.4-Ava::::REC_BONEWORKS-CentralStation&NexUI:2.0
+- Strata2-1.5-Cryo::::StrataEngine-DevTestV1:Unreleased
+- Strata2-1.6-Flix::::REC_BONELAB-Hub_DevPool
+- Strata2-1.7-Mono
+- Strata2-1.8-Nix::::BONEREALM
+- Strata2-1.9-Ventra::::NexUI:3.0
+- Velocity-2.0-Reinvent::::PortalWormholeGun-Rework
+- Nexus-2.1-Clink::::Portal_02-TrustFling:CubeDropperCollisionFix
+- Echo-2.2-Advin::::CatCafe
+- Echo-2.3-Atlas::::BONESIDE_Demo&ATalk
+- Echo-2.4-Aura::::Project5-REDACTED:(Current)
