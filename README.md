@@ -23,5 +23,5 @@
 - Velocity-2.0-Reinvent++PortalWormholeGun-Rework
 - Nexus-2.1-Clink++Portal_02-TrustFling:CubeDropperCollisionFix
 - Echo-2.2-Advin++CatCafe
-- Echo-2.3-Atlas::::BONESIDE_Demo&ATalk
-- Echo-2.4-Aura::::Project5-REDACTED:(Current)
+- Echo-2.3-Atlas++BONESIDE_Demo&ATalk
+- Echo-2.4-Aura++Project5-REDACTED:(Current)
